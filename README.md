@@ -1,4 +1,4 @@
-<h1> Hi! My name is Raphaela. </h1>
+<h1> Hi! My name is Rapha. </h1>
 
 <div>
   <a href="https://github.com/ravenaRRR">
