@@ -21,5 +21,5 @@
   <a href="https://instagram.com/r_a_p_h_a_s?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ravenaRRR&repo=ravenaRRR&theme=react)](https://github.com/ravenaRRR/ravenaRRR)
+
  
